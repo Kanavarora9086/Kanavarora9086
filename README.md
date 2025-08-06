@@ -1,7 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/Nm5RJ6E.png" alt="Kanav Arora Banner" width="100%" />
-</p>
 
 <!-- HEADING -->
 <h1 align="center">Hi 👋, I'm Kanav Arora</h1>
