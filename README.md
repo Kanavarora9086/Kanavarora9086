@@ -43,7 +43,7 @@
 
 ## 🏆 Experience & Certifications
 
-- 💼 Web Dev Intern @ **PTK Infotech**
+- 💼 Web Dev Intern @ **TECHIBLE**
 - 📜 Certifications:
   - 🔗 Blockchain - NPTEL
   - ☕ Java Programming - Internshala
