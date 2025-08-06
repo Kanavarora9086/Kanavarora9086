@@ -81,21 +81,6 @@
 - 🧩 I’m good at integrating APIs, location-based services, and custom login flows
 - 💬 Let’s build something awesome together!
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/kanavarora9086/kanavarora9086/blob/output/github-contribution-grid-snake.svg" />
-  ### 🐍 My GitHub Contribution Snake
-
-![GitHub Snake Light](https://github.com/Kanavarora9086/Kanavarora9086/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Kanavarora9086/Kanavarora9086/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</p>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
