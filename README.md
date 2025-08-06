@@ -43,8 +43,7 @@
 
 ## 🏆 Experience & Certifications
 
-- 💼 Web Dev Intern @ **PTK Infotech**, Pathankot
-- 🧑‍💻 Developer @ **Techible**
+- 💼 Web Dev Intern @ **PTK Infotech**
 - 📜 Certifications:
   - 🔗 Blockchain - NPTEL
   - ☕ Java Programming - Internshala
