@@ -64,7 +64,7 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 Email: kanavarora@example.com
+- 📧 Email: arorakanav34@gmail.com
 - 🌐 Portfolio: [kanav-portfolio.netlify.app](https://kanav-portfolio.netlify.app)
 
 ---
